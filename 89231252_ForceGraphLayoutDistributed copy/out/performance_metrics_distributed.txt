@@ -1,0 +1,6 @@
+Distributed Performance Test Results:
+-------------------------------------
+Test: Easy Distributed Performance Test, Nodes: 100, Edges: 100, Iterations: 200, Time: 273,56 ms
+Test: Semi-Mid Distributed Performance Test, Nodes: 750, Edges: 750, Iterations: 1000, Time: 1779,34 ms
+Test: Max Distributed Performance Test, Nodes: 10000, Edges: 10000, Iterations: 1000, Time: 148184,01 ms
+Test: Full Distributed Performance Test, Nodes: 100000, Edges: 100000, Iterations: 1000, Time: 15423604,87 ms
